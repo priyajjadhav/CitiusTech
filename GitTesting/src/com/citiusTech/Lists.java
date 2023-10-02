@@ -11,5 +11,7 @@ public class Lists {
 	al.add(20);
 	al.add(30);
 	al.add(40);
+	
+	System.out.println(al);
 }
 }
